@@ -1,5 +1,6 @@
 __pycache__
 apiProject/
 .env
+/env
 Dockerfile
-docker-compose.yml
+docker-compose.yml0
