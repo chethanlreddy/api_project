@@ -1,0 +1,5 @@
+__pycache__
+apiProject/
+.env
+Dockerfile
+docker-compose.yml
